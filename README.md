@@ -1,4 +1,6 @@
 Simon Game
+
+
 Simon Game, kullanıcıların renkli düğmelere basarak bir renk sırasını hafızalarında tutmaya çalıştıkları klasik bir hafıza oyunudur. Bu proje, HTML, CSS, JavaScript ve jQuery kullanılarak geliştirilmiştir.
 
 Teknolojiler
